@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-This folder contains different Python scripts you can use to learn how to trade in the financial markets algorithmically. These code scripts come from the QuantInsti Blog where we publish content related to algorithmic trading. Usually, we have for each Blog, a code script where we develop a trading strategy, a model algorithm, a new technique in the algo trading space, etc. This repository serves the purpose of finding all those code scripts in a single place. Please enjoy the most of it by searching your specific topic, find the code and tweak as per your own trading needs.
+This folder contains different Python and R scripts you can use to learn how to trade in the financial markets algorithmically. These code scripts come from the QuantInsti Blog where we publish content related to algorithmic trading. Usually, we have for each Blog, a code script where we develop a trading strategy, a model algorithm, a new technique in the algo trading space, etc. This repository serves the purpose of finding all those code scripts in a single place. Please enjoy the most of it by searching your specific topic, find the code and tweak as per your own trading needs.
 
 ## Disclaimer
 **The code scripts and/or their strategies are just templates. You should only use them for live trading with appropriate backtesting and tweaking strategy parameters.**
