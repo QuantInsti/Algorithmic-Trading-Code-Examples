@@ -5,7 +5,7 @@ The Kelly Criterion is good enough for long-term trading where the investor is r
 
 ## Code Script
 Find out below the code script of the article:
-[The Risk-Constrained Kelly Criterion](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
+[The Risk-Constrained Kelly Criterion code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/risk-constrained-kelly-criterion/The_risk_constraint_Kelly_Criterion.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [The Risk-Constrained Kelly Criterion](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
