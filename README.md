@@ -34,7 +34,7 @@ This folder contains different Python scripts you can use to learn how to trade
 
 <a id='contributors'></a>
 ## Contributors
-QuantInsti's EPAT and Quantra content team are responsible for maintaining and contributing to this repository.
+QuantInsti's EPAT and Quantra content teams are responsible for maintaining and contributing to this repository.
 
 <a id='help'></a>
 ## Ask for help
