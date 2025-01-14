@@ -6,7 +6,7 @@ RAPIDS leverages GPU capabilities to expedite data science tasks. This post will
 
 ## Code Script
 Find out below the code script of the article:
-[Trading using GPU-based RAPIDS Libraries from Nvidia](https://blog.quantinsti.com/nvidia-gpu-rapids-libraries-trading/)
+[Trading using GPU-based RAPIDS Libraries from Nvidia code script](https://blog.quantinsti.com/nvidia-gpu-rapids-libraries-trading/)
 ## Blog article 
 Find out below the blog article link:
 [Trading using GPU-based RAPIDS Libraries from Nvidia](https://blog.quantinsti.com/nvidia-gpu-rapids-libraries-trading/)
