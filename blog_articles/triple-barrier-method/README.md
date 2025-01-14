@@ -8,7 +8,7 @@ This article provides a great Nvidia-GPU-based solution code that you can implem
 ## Code Script
 Find out below the code script of the article:
 [The Triple Barrier Method: A Python GPU-based computation
- code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/The-triple-barrier-method/triple_barrier_method_with_gpu.ipynb)
+ code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/triple-barrier-method/triple_barrier_method_with_gpu.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [The Triple Barrier Method: A Python GPU-based computation
