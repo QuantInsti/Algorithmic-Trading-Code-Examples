@@ -5,4 +5,4 @@ The Kelly Criterion is good enough for long-term trading where the investor is r
 
 ## Blog article 
 Find out the details of the code script in the same blog article link:
-[The Risk-Constrained Kelly Criterion](https://blog.quantinsti.com/tgan-synthetic-data-for-trading/](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
+[The Risk-Constrained Kelly Criterion](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
