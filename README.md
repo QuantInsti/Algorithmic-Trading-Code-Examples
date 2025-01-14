@@ -46,4 +46,4 @@ In case of questions, please write to:
 <a id='setups'></a>
 ## Available Blog code scripts
 
-1. [TGAN synthetic data for trading](#(https://blog.quantinsti.com/tgan-synthetic-data-for-trading/))
+1. [TGAN synthetic data for trading](https://blog.quantinsti.com/tgan-synthetic-data-for-trading/)
