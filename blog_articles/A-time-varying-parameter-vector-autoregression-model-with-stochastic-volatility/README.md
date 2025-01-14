@@ -5,7 +5,7 @@ The basic Vector Autoregression (VAR) model is heavily used in macro-econometric
 
 ## Code Script
 Find out below the code script of the article:
-[A time-varying-parameter vector autoregression model with stochastic volatility code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/A%20time-varying-parameter-vector-autoregression-model-with-stochastic-volatility/TVP_VAR_for_article.R)
+[A time-varying-parameter vector autoregression model with stochastic volatility code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/A-time-varying-parameter-vector-autoregression-model-with-stochastic-volatility/TVP_VAR_SV.R)
 ## Blog article 
 Find out below the blog article link:
 [A time-varying-parameter vector autoregression model with stochastic volatility](https://blog.quantinsti.com/tvp-var-stochastic-volatility/)
