@@ -46,5 +46,5 @@ In case of questions, please write to:
 <a id='setups'></a>
 ## Available Blog code scripts
 
-1. [TGAN synthetic data for trading](https://blog.quantinsti.com/tgan-synthetic-data-for-trading/)
-2. [The Risk-Constrained Kelly Criterion](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
+1. [TGAN synthetic data for trading](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/tgan-for-trading)
+2. [The Risk-Constrained Kelly Criterion](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/risk-constrained-kelly-criterion)
