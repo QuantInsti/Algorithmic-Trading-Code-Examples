@@ -7,7 +7,7 @@ You’ll encounter situations where daily financial data is insufficient to back
 
 ## Code Script
 Find out below the code script of the article:
-- [TGAN synthetic data for trading code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/tgan-for-trading/TGAN_for_synthetic_data_in_trading.ipynb)
+- [TGAN synthetic data for trading code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/tgan-for-trading/TGAN_for_synthetic_data_in_trading.ipynb)
 ## Blog article 
 Find out the details of the code script in the same blog article link:
-- [TGAN synthetic data for trading](https://blog.quantinsti.com/tgan-synthetic-data-for-trading/)
+- [TGAN synthetic data for trading](https://blog.quantinsti.com/tgan-algorithm-generate-synthetic-data-backtesting-trading-strategies/)
