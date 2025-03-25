@@ -5,7 +5,7 @@ Usually, regime detection is made with an HMM estimation over price returns or p
 
 ## Code Script
 Find out below the code script of the article:
-- [Directional Change in Trading code script](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/directional-change-for-trading/directional_change_in_trading.ipynb)
+- [Directional Change in Trading code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/directional-change-for-trading/directional_change_in_trading.ipynb)
 ## Blog article 
 Find out below the blog article link:
 - [Directional Change in Trading](https://blog.quantinsti.com/directional-change-trading/)
