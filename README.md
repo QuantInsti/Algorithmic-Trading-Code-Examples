@@ -48,3 +48,11 @@ In case of questions, please write to:
 
 1. [TGAN synthetic data for trading](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/tgan-for-trading)
 2. [The Risk-Constrained Kelly Criterion](https://github.com/quantra-go-algo/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/risk-constrained-kelly-criterion)
+3. [A novel drift detection algorithm for machine learning in trading](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/autoregressive_drift_detection_method)
+4. [The Boruta-Shap Algorithm: A CPU-and-GPU version](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/boruta-shap-algorithm-using-cpu-and-gpu)
+5. [Directional Change in Trading: Indicators, Python Coding, and HMM Strategies](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/directional-change-for-trading)
+6. [Faster Downloads using Python Multithreading](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/faster_downloads_python_multithreading)
+7. [Ito's Lemma Applied to Stock Trading](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/ito_lemma_applied_to_stock_trading)
+8. [Trading using GPU-based RAPIDS Libraries from Nvidia](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/rapids-libraries-from-nvidia-for-trading)
+9. [A time-varying-parameter vector autoregression model with stochastic volatility](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/time-varying-parameter-vector-autoregression-model-with-stochastic-volatility)
+10. [The Triple Barrier Method: A Python GPU-based computation](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/triple-barrier-method)
