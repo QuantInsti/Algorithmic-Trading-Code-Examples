@@ -12,8 +12,8 @@ In this guide, we’ll unpack how ADDM works, why it outperforms well-known mode
 
 ## Code Script
 Find out below the code script of the article:
-[Python Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/faster_downloads_python_multithreading/multithreading_codes.ipynb)
-[R Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/faster_downloads_python_multithreading/multithreading_codes.ipynb)
+[Python Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/autoregressive_drift_detection_method/ADDM_algorithm.ipynb)
+[R Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/autoregressive_drift_detection_method/SETAR.R)
 ## Blog article 
 Find out below the blog article link:
-[Blog Article]()
+[Blog Article](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
