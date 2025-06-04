@@ -57,3 +57,4 @@ In case of questions, please write to:
 9. [A time-varying-parameter vector autoregression model with stochastic volatility](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/time-varying-parameter-vector-autoregression-model-with-stochastic-volatility)
 10. [The Triple Barrier Method: A Python GPU-based computation](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/triple-barrier-method)
 11. [Five Indicators To Build Trend-Following Strategies](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
+12. [Modelling Asymmetric Volatility with the GJR-GARCH Framework](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/asymmetric-volatility-with-the-gjr-garch)
