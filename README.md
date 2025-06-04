@@ -59,3 +59,4 @@ In case of questions, please write to:
 11. [Five Indicators To Build Trend-Following Strategies](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
 12. [Modelling Asymmetric Volatility with the GJR-GARCH Framework](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/asymmetric-volatility-with-the-gjr-garch)
 13. [Forecasting Stock Prices Using ARIMA Model](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/stock-prices-using-arima-model)
+14. [Portfolio Optimization Using Monte Carlo Simulation](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/portfolio-optimization-using-monte-carlo-simulation)
