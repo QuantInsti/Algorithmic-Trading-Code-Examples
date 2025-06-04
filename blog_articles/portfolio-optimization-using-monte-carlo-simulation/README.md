@@ -7,7 +7,7 @@ Portfolio optimisation, in this context, refers to constructing an asset allocat
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/portfolio-optimization-using-monte-carlo-simulation/Portfolio_Optimization_Using_Monte_Carlo_Simulation.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/portfolio-optimization-maximum-return-risk-ratio-python/)
