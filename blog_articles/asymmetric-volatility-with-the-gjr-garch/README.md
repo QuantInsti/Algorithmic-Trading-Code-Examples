@@ -9,7 +9,7 @@ Enter the GJR-GARCH model!
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/asymmetric-volatility-with-the-gjr-garch/GJR_GARCH.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/garch-gjr-garch-volatility-forecasting-python/)
