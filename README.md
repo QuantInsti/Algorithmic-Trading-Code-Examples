@@ -56,4 +56,4 @@ In case of questions, please write to:
 8. [Trading using GPU-based RAPIDS Libraries from Nvidia](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/rapids-libraries-from-nvidia-for-trading)
 9. [A time-varying-parameter vector autoregression model with stochastic volatility](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/time-varying-parameter-vector-autoregression-model-with-stochastic-volatility)
 10. [The Triple Barrier Method: A Python GPU-based computation](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/triple-barrier-method)
-11. [Faster Downloads using Python Multithreading](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/faster-downloads-using-python-multithreading)
+11. [Five Indicators To Build Trend-Following Strategies](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
