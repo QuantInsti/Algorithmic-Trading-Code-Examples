@@ -12,7 +12,7 @@ Each is explained with examples and accompanied by Python code snippets to help 
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/autoregressive_drift_detection_method/ADDM_algorithm.ipynb)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/indicators-build-trend-following-strategy/)
