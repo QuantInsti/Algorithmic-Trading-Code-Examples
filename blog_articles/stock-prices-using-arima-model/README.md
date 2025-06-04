@@ -7,7 +7,7 @@ You'll not only learn how to apply ARIMA models but also how to enhance your res
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/build-trend-following-strategies)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/stock-prices-using-arima-model/Stock_trading_with_ARIMA.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/forecasting-stock-returns-using-arima-model/)
