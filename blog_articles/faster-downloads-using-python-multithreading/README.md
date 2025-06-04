@@ -9,7 +9,7 @@ What if you could download multiple stock data simultaneously?
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/autoregressive_drift_detection_method/ADDM_algorithm.ipynb)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/faster-downloads-using-python-multithreading/multithreading_codes.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/download-multiple-stocks-data-python-multithreading/)
