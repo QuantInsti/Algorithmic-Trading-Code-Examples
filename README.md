@@ -60,3 +60,4 @@ In case of questions, please write to:
 12. [Modelling Asymmetric Volatility with the GJR-GARCH Framework](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/asymmetric-volatility-with-the-gjr-garch)
 13. [Forecasting Stock Prices Using ARIMA Model](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/stock-prices-using-arima-model)
 14. [Portfolio Optimization Using Monte Carlo Simulation](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/portfolio-optimization-using-monte-carlo-simulation)
+15. [Building a Trading Strategy using Bias-Variance Decomposition](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/tree/main/blog_articles/trading-strategy-using-bias-variance-decomposition)
