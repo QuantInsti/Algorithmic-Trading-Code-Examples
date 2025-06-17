@@ -9,7 +9,7 @@ Even though J. Welles Wilder was working on commodities when he came up with the
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/stock-prices-using-arima-model/Stock_trading_with_ARIMA.ipynb)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/rsi-Indicator/RSI_Indicator_Blog_Code.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/rsi-indicator/)
