@@ -7,7 +7,7 @@ Let's dive in.
 
 ## Code Script
 Find out below the code script of the article:
-[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/rsi-Indicator/RSI_Indicator_Blog_Code.ipynb)
+[Code script](https://github.com/QuantInsti/Algorithmic-Trading-Code-Examples/blob/main/blog_articles/Basics-of-Bias-Variance-Tradeoff/Basics_of_Bias_Variance_Tradeoff_for_Trading.ipynb)
 ## Blog article 
 Find out below the blog article link:
 [Blog Article](https://blog.quantinsti.com/bias-variance-machine-learning-trading/)
