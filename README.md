@@ -34,7 +34,9 @@ This folder contains different Python and R scripts you can use to learn how to
 
 <a id='contributors'></a>
 ## Contributors
-QuantInsti's EPAT and Quantra content teams are responsible for maintaining and contributing to this repository.
+# Authors
+- Author: [José Carlos Gonzáles Tanaka](https://www.linkedin.com/in/jose-carlos-gonzales-tanaka/)
+- QuantInsti's EPAT Content Team is responsible for maintaining and contributing to this repository.
 
 <a id='help'></a>
 ## Ask for help
